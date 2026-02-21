@@ -1,3 +1,22 @@
+# AI SEO Content Cluster Generator  
+## Digital Marketing Agency – Bangalore Case Study
+
+![SEO Content Cluster](assets/seo-content-cluster-banner.png)
+
+---
+
+## 📌 Project Overview
+This project demonstrates how Prompt Engineering + AI can be used to build a complete SEO Content Cluster strategy for a Digital Marketing Agency in Bangalore.
+
+Instead of writing random blogs, this system creates:
+
+✅ Pillar Blog  
+✅ Supporting Content Cluster  
+✅ Keyword Strategy  
+✅ Internal Linking Structure  
+✅ Local SEO Optimization  
+
+Designed similar to real SEO agency workflows.
 # AI SEO Blog & Content Cluster Generator
 
 ## Project Overview
